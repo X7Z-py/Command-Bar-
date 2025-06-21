@@ -47,5 +47,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Command-UI-Adm
 
 ```lua
 --Dev Script [BETA]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Project-RedWolf-Command-UI/refs/heads/main/Project%20RedWolf%20Command%20UI"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Command-UI-Admin/refs/heads/main/Dev/script"))()
 ```
