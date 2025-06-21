@@ -33,7 +33,7 @@
 -  Universal 
 -  Utility Commands
 -  Useful Commands
--  15+ Commands
+-  25+ Commands
 -  More commands are expected
 
 ---
