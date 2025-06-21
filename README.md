@@ -42,7 +42,7 @@
 
 ```lua
 --Main Script [25+ Commands]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Command-Bar-/refs/heads/main/Main/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Command-UI-Admin/refs/heads/main/Main/script"))()
 ```
 
 ```lua
