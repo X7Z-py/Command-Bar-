@@ -42,7 +42,7 @@
 
 ```lua
 --Main Script [25+ Commands]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Project-RedWolf-Command-UI/refs/heads/main/Project%20RedWolf%20Command%20UI"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Command-Bar-/refs/heads/main/Main/script"))()
 ```
 
 ```lua
