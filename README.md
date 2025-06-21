@@ -1,6 +1,6 @@
-# Command-Bar
+
 <!-- PROJECT TITLE -->
-<h1 align="center">Project CommandBar</h1>
+<h1 align="center">Developer Command UI Admin</h1>
 
 <p align="center">
    Roblox command interface inspired by Visual UI Command.
@@ -20,7 +20,7 @@
 
 ---
 
-## Developer Command Bar UI Admin [-]
+## Developer Command Bar UI Admin [---]
 
 **DevCommandUI** is a modular command system designed for Roblox.
 
